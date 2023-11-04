@@ -1,2 +1,1 @@
-# Prepcourse-Henry-GT
-Este es un repositorio del módulo 2 del Prepcourse de Henry GT
+Este es un proyecto de como crear un repositorio y clonarlo desde github a mi computadora.
